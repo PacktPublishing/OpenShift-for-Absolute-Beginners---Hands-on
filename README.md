@@ -1,2 +1,4 @@
-# OpenShift-for-Absolute-Beginners---Hands-on
-Code repository for OpenShift for Absolute Beginners - Hands-on, published by Packt
+# openshift-course-demos
+Demo files for my OpenShift Course
+
+https://www.udemy.com/learn-openshift
