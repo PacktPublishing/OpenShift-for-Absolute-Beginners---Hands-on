@@ -1,0 +1,4 @@
+GitLab - Setup
+In the upcoming demo, we use a local instance of GitLab to implement CI/CD integration on Openshift. The source code repository must be able to access the OpenShift cluster. Since our OpenShift cluster is deployed locally, we need a local instance of source code repository. You could deploy any SCM tool of your choice - BitBucket, Github Enterprise or GitLab. I happen to use GitLab.
+
+If you would like to see a demo of deploying a local instance of GitLab, please refer to Appendix A - Demo - GitLab - Setup at the end of this course.

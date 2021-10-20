@@ -1,0 +1,2 @@
+Setup VirtualBox
+In the upcoming demo, we will be deploying Minishift using VirtualBox. If you are planning to follow along in your own setup and haven't setup already now would be a good time to download and install VirtualBox. We also have a video on setting up VirtualBox at the end of this course under APPENDIX D - Setup VirtualBox. If interested view that first and then resume here.
